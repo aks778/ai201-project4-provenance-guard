@@ -1,0 +1,68 @@
+[
+  {
+    "content_id": "c_f25883975a80",
+    "creator_id": "u_ai",
+    "timestamp": "2026-07-01T01:09:57.451Z",
+    "attribution": "likely_ai",
+    "ai_probability": 0.8,
+    "confidence": 0.8,
+    "signals": {
+      "llm_score": 0.9,
+      "llm_rationale": "The passage lacks specific lived detail and features uniformly generic content.",
+      "stylometric_score": 0.7
+    },
+    "status": "under_review",
+    "appeals": [
+      {
+        "appeal_id": "a_65a136b566fb",
+        "reason": "I wrote this myself; please re-review.",
+        "logged_at": "2026-07-01T01:10:06.509Z"
+      }
+    ]
+  },
+  {
+    "content_id": "c_b13723608528",
+    "creator_id": "u_human",
+    "timestamp": "2026-07-01T01:09:57.773Z",
+    "attribution": "likely_human",
+    "ai_probability": 0.2316,
+    "confidence": 0.9369,
+    "signals": {
+      "llm_score": 0.2,
+      "llm_rationale": "The passage contains specific, personal details and opinions, which is less typical of AI-generated content.",
+      "stylometric_score": 0.2631
+    },
+    "status": "classified",
+    "appeals": []
+  },
+  {
+    "content_id": "c_a239d67aab4b",
+    "creator_id": "u_formal",
+    "timestamp": "2026-07-01T01:09:58.085Z",
+    "attribution": "uncertain",
+    "ai_probability": 0.6077,
+    "confidence": 0.6154,
+    "signals": {
+      "llm_score": 0.8,
+      "llm_rationale": "The passage uses generic academic language and lacks specific lived detail.",
+      "stylometric_score": 0.4154
+    },
+    "status": "classified",
+    "appeals": []
+  },
+  {
+    "content_id": "c_cfe5cd859af9",
+    "creator_id": "u_edited",
+    "timestamp": "2026-07-01T01:09:58.483Z",
+    "attribution": "uncertain",
+    "ai_probability": 0.5306,
+    "confidence": 0.5,
+    "signals": {
+      "llm_score": 0.7,
+      "llm_rationale": "The passage lacks specific personal anecdotes and has a generically balanced tone.",
+      "stylometric_score": 0.3613
+    },
+    "status": "classified",
+    "appeals": []
+  }
+]
